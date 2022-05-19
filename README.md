@@ -21,6 +21,15 @@ Im passionate about programming and web development , I like learning and readin
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+## Projects
+
+- [Online store made in react ](https://github.com/roblesvargas97/ReduxPizza)
+- [Test of multiple-choice questions made in react](https://github.com/roblesvargas97/driving-project)
+- [Memory game using PokeAPI](https://github.com/roblesvargas97/memory-game-pokemon)
+- [Pokedex made in react](https://github.com/roblesvargas97/practicasJS)
+- [Vaccination Landing Page](https://github.com/roblesvargas97/PracticasCSS)
+- [Creating API in Express](https://github.com/roblesvargas97/code-challenge) 
+
 ## Follow Me ✌🤓
  
 <p align="left">
