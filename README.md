@@ -23,14 +23,14 @@ Im passionate about programming and web development , I like learning and readin
 
 ## Projects 👻🤖💼
 
-- [Online store made in react ](https://github.com/roblesvargas97/ReduxPizza)
-- [Test of multiple-choice questions made in react](https://github.com/roblesvargas97/driving-project)
-- [Memory game using PokeAPI](https://github.com/roblesvargas97/memory-game-pokemon)
-- [Pokedex made in react](https://github.com/roblesvargas97/practicasJS)
-- [Vaccination Landing Page](https://github.com/roblesvargas97/PracticasCSS)
-- [Creating API in Express](https://github.com/roblesvargas97/code-challenge) 
+- [Online store made in react.](https://github.com/roblesvargas97/ReduxPizza)
+- [Test of multiple-choice questions made in react.](https://github.com/roblesvargas97/driving-project)
+- [Memory game using PokeAPI.](https://github.com/roblesvargas97/memory-game-pokemon)
+- [Pokedex made in react.](https://github.com/roblesvargas97/practicasJS)
+- [Vaccination Landing Page.](https://github.com/roblesvargas97/PracticasCSS)
+- [Creating API in Express.](https://github.com/roblesvargas97/code-challenge) 
 
-## Follow Me ✌🤓
+## Contact Me ✌🤓
  
 <p align="left">
   <a href="https://www.instagram.com/jesusurielrobles/">
