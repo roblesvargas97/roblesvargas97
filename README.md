@@ -3,7 +3,7 @@
 </p>
 
 # Hello, I'm Jesus Uriel Robles Vargas👋 👨🏽‍💻
-**Im passionate about programming and web development , I like learning and reading books about technology.**
+**Im passionate about programming and web development , I like learning new stuff and reading books about technology.**
 
 ## Skills 🛸 🚀
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
